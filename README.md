@@ -53,12 +53,12 @@ Untuk pertanyaan atau informasi lebih lanjut, silakan hubungi [fuji.anggara10@gm
 
 ```
 
-### Penjelasan
-- **Deskripsi**: Menjelaskan tujuan alat dan fokus pada kerentanan yang akan diuji.
-- **Fitur**: Menyebutkan berbagai jenis serangan yang didukung.
-- **Instalasi**: Langkah-langkah untuk menginstal alat.
-- **Penggunaan**: Memaparkan cara menggunakan alat.
-- **Keamanan**: Mengingatkan pengguna tentang etika dan legalitas.
-- **Kontribusi**: Mengundang orang lain untuk berkontribusi pada proyek.
-- **Lisensi**: Menyebutkan lisensi penggunaan alat.
-- **Kontak**: Memberikan informasi untuk menghubungi pengembang jika ada pertanyaan.
+Penjelasan
+- Deskripsi: Menjelaskan tujuan alat dan fokus pada kerentanan yang akan diuji.
+- Fitur: Menyebutkan berbagai jenis serangan yang didukung.
+- Instalasi: Langkah-langkah untuk menginstal alat.
+- Penggunaan: Memaparkan cara menggunakan alat.
+- Keamanan: Mengingatkan pengguna tentang etika dan legalitas.
+- Kontribusi: Mengundang orang lain untuk berkontribusi pada proyek.
+- Lisensi: Menyebutkan lisensi penggunaan alat.
+- Kontak: Memberikan informasi untuk menghubungi pengembang jika ada pertanyaan.
